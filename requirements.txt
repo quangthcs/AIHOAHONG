@@ -1,5 +1,7 @@
-torch
+packaging==26.2
 streamlit
+torch
+torchvision
+timm
 Pillow
 numpy
-packaging==26.2
